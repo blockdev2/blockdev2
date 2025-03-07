@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎲 I do some things sometimes...</p>
+<p align="left">🎲 I do some things sometimes...<br>🧪99% of my repositories are private.</p>
 
 ###
 
